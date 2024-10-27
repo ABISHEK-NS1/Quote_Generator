@@ -1,6 +1,6 @@
 This is Random Quote Generator build using react.
 Key learnings:
-   => TailWind CSS
-   => State management
-   => React essentials
-   => Dynamic image display
+i) TailWind CSS
+ii) State management
+iii) React essentials
+iv) Dynamic image display
